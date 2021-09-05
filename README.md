@@ -55,6 +55,6 @@ This webpage was created as a submission to a [DevChallenges](https://devchallen
 
 ## Contact
 
-- Website [www.nitinchandrannair.com/](http://www.nitinchandrannair.com/)
-- GitHub [@NitinNair89](https://github.com/NitinNair89)
-- LinkedIn [@nitin-nair-11728a144](https://www.linkedin.com/in/nitin-nair-11728a144/)
+- Website - [www.nitinchandrannair.com/](http://www.nitinchandrannair.com/)
+- GitHub - [@NitinNair89](https://github.com/NitinNair89)
+- LinkedIn - [@nitin-nair-11728a144](https://www.linkedin.com/in/nitin-nair-11728a144/)
